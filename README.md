@@ -2,6 +2,7 @@
 
 - [EN : Description :boom:](#en)  
 - [TR : Açıklama :boom:](#tr)
+****
 
  #### [EN]
 
@@ -64,6 +65,7 @@ Some websites were consulted for quiz questions and used some background sounds;
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+****
 
  #### [TR]
 
