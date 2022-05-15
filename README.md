@@ -1,5 +1,7 @@
 <h1 align="left"> Quiz App </h1>
 
+![Game](https://user-images.githubusercontent.com/76062971/168493917-749d75b1-24f7-4d44-80ee-cdc65c1f7d16.PNG)
+
 - [EN : Description :boom:](#en)  
 - [TR : Açıklama :boom:](#tr)
 ****
