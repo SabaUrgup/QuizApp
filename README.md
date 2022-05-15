@@ -15,7 +15,7 @@ Learning to code can be tiring and boring at times. Motivation is the most neces
 
 This Quiz application I have produced aims to provide learning while playing games in a fun way. If you are curious, you can examine the details of the project.
 
-***Note: If you are ready for a challenge, how about clicking the link directly!..*** :anger: [`Quiz App`]()
+***Note: If you are ready for a challenge, how about clicking the link directly!..*** :anger: [`Quiz App`](https://sabaurgup.github.io/QuizApp/)
 
 ### Technologies
 - JavaScript 🧩 
@@ -25,10 +25,8 @@ This Quiz application I have produced aims to provide learning while playing gam
 ## Features
 * Single html && router✨ 
 * Test yourself with questions about computer science (Javascript & CSS & HTML technologies)✨ 
-* Calculate your final score with timer✨ 
 * A web-based, support for Chrome and Firefox platforms✨ 
-* 2D game design✨ 
-* Background sounds✨ 
+* 2D game design✨  
 
 ### Installing
 
@@ -42,7 +40,7 @@ open index.html
 ```
 ## Running the Tests
 
-➤ You can directly play: [`Quiz App Demo`]()
+➤ You can directly play: [`Quiz App Demo`](https://sabaurgup.github.io/QuizApp/)
 
 ## Authors & Contact
 
@@ -60,11 +58,10 @@ Some websites were consulted for quiz questions and used some background sounds;
 * [interviewbit](https://www.interviewbit.com/javascript-mcq/)
 * [examtiger](https://www.examtiger.com/mcq/css-mcq-on-stylesheet/page/4/)
 * [javatpoint/css](https://www.javatpoint.com/css-mcq)
-* Musics
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License.
 ****
 
  #### [TR]
@@ -79,7 +76,7 @@ Kodlamayı öğrenmek zaman zaman yorucu ve sıkıcı olabilir. Motivasyon bu s�
 
 Ürettiğim bu Quiz uygulaması oyun oynarken öğrenmeyi eğlenceli bir yoldan sağlamayı hedefliyor. Merakınızı cezbettiyse projenin detaylarını inceleyebilirsiniz.
 
-***Not: Küçük bir meydan okumaya hazırsan doğruca linke tıklamaya ne dersin!..*** :anger: [`Quiz App`]()
+***Not: Küçük bir meydan okumaya hazırsan doğruca linke tıklamaya ne dersin!..*** :anger: [`Quiz App`](https://sabaurgup.github.io/QuizApp/)
 
 ## Teknolojiler
 
@@ -91,10 +88,8 @@ Kodlamayı öğrenmek zaman zaman yorucu ve sıkıcı olabilir. Motivasyon bu s�
 
 * Tek html sayfası && yönlendirici✨ 
 * Bilgisayar bilimi ile ilgili sorularla kendinizi test edin (Javascript & CSS & HTML teknolojileri)✨ 
-* Zamanlayıcı ile nihai puanınızı hesaplayın✨ 
 * Web tabanlı tasarım, Chrome ve Firefox platformları için destek✨ 
 * 2D oyun tasarımı✨ 
-* Arka plan sesleri✨ 
 
 ## Nasıl Oynanır & Kurulum 
 
@@ -107,7 +102,7 @@ open index.html
 ```
 Ayrıca  🚨 
 
-➤ Doğrudan oynayabilirsiniz: [`Quiz App Demo`]()
+➤ Doğrudan oynayabilirsiniz: [`Quiz App Demo`](https://sabaurgup.github.io/QuizApp/)
 
 ## Yazar ve İletişim
 
@@ -125,8 +120,7 @@ Bazı web siteleri; bilgi yarışması soruları için ve arka plan sesleri kull
 * [interviewbit](https://www.interviewbit.com/javascript-mcq/)
 * [examtiger](https://www.examtiger.com/mcq/css-mcq-on-stylesheet/page/4/)
 * [javatpoint/css](https://www.javatpoint.com/css-mcq)
-* Musics
 
 ## Lisans
 
-Bu proje MIT Lisansı kapsamında lisanslanmıştır - ayrıntılar için [LICENSE.md](LICENSE.md) dosyasına bakın.
+Bu proje MIT Lisansı kapsamında lisanslanmıştır.
